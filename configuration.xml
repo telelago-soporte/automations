@@ -1,0 +1,9 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="Retail">
+    <Product ID="ProPlus2021Retail">
+      <Language ID="es-mx" />
+    </Product>
+  </Add>
+  <RemoveAll />
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
